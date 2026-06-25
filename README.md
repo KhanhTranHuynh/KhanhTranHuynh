@@ -14,8 +14,6 @@ Full Stack Developer
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhanhTranHuynh&show_icons=true&theme=github_dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhTranHuynh&layout=compact&theme=github_dark)
 
 ## 📫 Contact
