@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/KhanhTranHuynh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+2%2B+years+of+experience;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MySQL+%C2%B7+PostgreSQL;Deploy+%26+operate+projects+with+PM2;Google+OAuth+2.0+%C2%B7+Drive+%C2%B7+Sheets;Building+products+with+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%7C+2%2B+years+of+experience;React+%C2%B7+Vue+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Express;MySQL+%C2%B7+PostgreSQL;Deploy+%26+operate+projects+with+PM2;Google+OAuth+2.0+%C2%B7+Drive+%C2%B7+Sheets;Building+products+with+AI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,8 @@
 <td width="60%" valign="top">
 
 - 💻 Full Stack Developer with **2+ years** of hands-on experience
-- ⚛️ Frontend with **React**, backend with **Node.js / Express**
+- ⚛️ Frontend with **React** and **Vue**, written in **TypeScript**
+- 🟢 Backend with **Node.js / Express**
 - 🗄️ Databases: **MySQL** and **PostgreSQL**
 - 🌐 Deploy and run projects on servers, managing processes with **PM2**
 - 🔗 Integrate **Google Drive**, **Google Sheets** and **Google OAuth 2.0**
@@ -47,7 +48,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,html,css,js&theme=dark" alt="Frontend" /><br/>
   <sub><b>Frontend</b></sub>
 </p>
 
@@ -91,7 +92,7 @@
 
 | Area | Details |
 |:-----|:--------|
-| 🖥️ **Web development** | Responsive interfaces with React, REST APIs with Node.js and Express |
+| 🖥️ **Web development** | Responsive interfaces with React and Vue, typed with TypeScript, REST APIs with Node.js and Express |
 | 🗄️ **Database** | Schema design, queries and optimization with MySQL and PostgreSQL |
 | 🚢 **Deployment** | Set up servers, deploy projects, run and monitor services with PM2 |
 | 🔗 **Google integration** | Authenticate users with OAuth 2.0, read and write files on Drive, automate data with Sheets |
